@@ -1,6 +1,6 @@
 # Finite State Machine
 - Moore's finite state machine에 대한 구현체입니다.
-- 빌더 패턴을 사용하면 예쁘고 가독성도 좋을 것 같았는데, 그러지 않아서 한 번 만들어봤습니다.
+- 빌더 패턴을 사용하면 예쁘고 가독성도 좋을 것 같았는데, javascript나 typescript엔 그런게 없는 것 같아서 한 번 만들어봤습니다.
 - 조금씩 다듬어보겠습니다.
 
 
